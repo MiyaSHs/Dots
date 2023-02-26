@@ -1,6 +1,5 @@
 # Dots
 My dotfiles for Hyprland and Waybar
 
-Requirements are
-Hyprland, Waybar, Dunst and Wofi
-for theming i recommend catppuccin gtk, kvantum and cursors
+I use Dunst and Wofi but you can change that to whatever you'd like in the config.
+( Haven't themed dunst or wofi, thats why no config files included ) 
